@@ -2,7 +2,7 @@
 
 Directions:  Fill out this sheet with your GitHub Username and Password (same as environmental setup): [Github/Environ](https://docs.google.com/spreadsheets/d/1zEcAonHjs7KiuSM7ygUjWeQ83WxH-PD2yNiG9G9-9TQ/edit?usp=sharing)
 
-Follow these directions **AFTER I ADD YOU AS A COLLABORATOR**
+**Follow these directions:**
 
 1. Clone down this repo 
 2. Create a BRANCH called Your Name 
