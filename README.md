@@ -23,6 +23,7 @@
 - John
 - Marlo
 - Wes
+![joey](https://cdn.mos.cms.futurecdn.net/od7EQt3jEjSuAoTUzg34PC.jpg)
 - Goknur
 - Andy
 - Namsoo
