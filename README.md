@@ -18,6 +18,7 @@
 - Dre
 - Harshitha
 - Martha
+![My Image](https://i.dailymail.co.uk/i/pix/2014/09/07/article-2746530-2121E97A00000578-978_634x906.jpg)
 - Gina
 - Dan
 - Andrei
