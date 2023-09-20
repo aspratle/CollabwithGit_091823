@@ -28,7 +28,6 @@
 - Andy
 - Namsoo
 - Jelly (Test 2)
-
 ![My Image](https://files.cults3d.com/uploaders/17049402/illustration-file/b68b967b-21e5-4047-8980-c63e7f4bc123/main.png)
 
 - Jelly (Test 1)
