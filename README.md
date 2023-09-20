@@ -22,6 +22,8 @@
 - Andrei
 - John
 - Marlo
+![my image](https://sculpturemagazine.art/wp-content/uploads/2019/03/rev-12-1.jpg)
+
 - Wes
 - Goknur
 - Andy
