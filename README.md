@@ -30,6 +30,7 @@
 ![my image](https://sculpturemagazine.art/wp-content/uploads/2019/03/rev-12-1.jpg)
 
 - Wes
+![joey](https://cdn.mos.cms.futurecdn.net/od7EQt3jEjSuAoTUzg34PC.jpg)
 - Goknur
 - Andy
 ![AndyImage](https://i.imgur.com/kFFi7.jpeg)
