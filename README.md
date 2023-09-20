@@ -42,6 +42,7 @@
 - Wes
 ![joey](https://cdn.mos.cms.futurecdn.net/od7EQt3jEjSuAoTUzg34PC.jpg)
 - Goknur
+![goknurimage](https://hips.hearstapps.com/hmg-prod/images/champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.jpg?crop=1.00xw:0.755xh;0,0.173xh&resize=1200:*)
 - Andy
 ![AndyImage](https://i.imgur.com/kFFi7.jpeg)
 - Namsoo
