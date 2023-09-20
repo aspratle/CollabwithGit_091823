@@ -15,6 +15,7 @@
 - Kari
 - Mytreyi
 - Dre
+![My Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/04/30/21/26206.jpg)
 - Harshitha
 - Martha
 - Gina
