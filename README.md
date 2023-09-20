@@ -15,7 +15,8 @@
 - Kari
 ![My Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fthewokesalaryman.com%2Fwp-content%2Fuploads%2F2020%2F06%2FSSG_Data-Analyst_005.jpg%3Fresize%3D640%252C360%26ssl%3D1&tbnid=KTlg45YRMSbv7M&vet=12ahUKEwjBiubry7mBAxWBUTUKHap1AqIQMygBegQIARBa..i&imgrefurl=https%3A%2F%2Fthewokesalaryman.com%2F2020%2F06%2F15%2Fi-switched-careers-at-34-and-became-a-data-analyst-heres-how%2F&docid=SRM3ektQBW8xVM&w=640&h=360&q=data%20analyst%20frustrated&ved=2ahUKEwjBiubry7mBAxWBUTUKHap1AqIQMygBegQIARBa)
 - Mytreyi
-- Dre
+- Andreas
+![My Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/04/30/21/26206.jpg)
 - Harshitha
 - Martha
 - Gina ![Mojo](https://i.pinimg.com/1200x/22/d9/bc/22d9bcfc3043fd680c7f97000128870c.jpg)
