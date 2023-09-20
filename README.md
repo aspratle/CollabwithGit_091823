@@ -22,6 +22,9 @@
 - Dan
 - Andrei
 - John
+
+![John's Image](https://cdn2.picryl.com/photo/1889/12/31/vincent-van-gogh-olive-grove-google-art-project-487e76-1024.jpg)
+
 - Marlo
 - Wes
 - Goknur
