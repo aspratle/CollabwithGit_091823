@@ -21,6 +21,7 @@
 - Gina
 - Dan
 - Andrei
+![Image](https://www.rd.com/wp-content/uploads/2019/09/GettyImages-621924830-scaled.jpg?fit=700%2C500?fit=700,700)
 - John
 
 ![John's Image](https://cdn2.picryl.com/photo/1889/12/31/vincent-van-gogh-olive-grove-google-art-project-487e76-1024.jpg)
