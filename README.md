@@ -26,6 +26,7 @@
 - Goknur
 - Andy
 - Namsoo
+![Namsoo' lunch](https://gomean.co.kr/wp-content/uploads/2023/07/gm-black-bean-sauce-noodle.jpg)
 - Jelly (Test 2)
 
 ![My Image](https://files.cults3d.com/uploaders/17049402/illustration-file/b68b967b-21e5-4047-8980-c63e7f4bc123/main.png)
