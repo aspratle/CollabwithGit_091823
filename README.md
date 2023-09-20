@@ -34,5 +34,4 @@
 - Jelly (Test 1)
 ![GithubImage](https://res.cloudinary.com/practicaldev/image/fetch/s--2gpbN4za--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yib9s4xsemw1yve260mm.jpeg)
 
-Harshitha 
-![My Image](https://s3-eu-west-1.amazonaws.com/blog-ecotree/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg)
+
