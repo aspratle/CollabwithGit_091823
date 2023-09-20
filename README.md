@@ -20,6 +20,7 @@
 - Andreas
 ![My Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/04/30/21/26206.jpg)
 - Harshitha
+![My Image](https://s3-eu-west-1.amazonaws.com/blog-ecotree/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg)
 - Martha
 - Gina ![Mojo](https://i.pinimg.com/1200x/22/d9/bc/22d9bcfc3043fd680c7f97000128870c.jpg)
 - Dan
