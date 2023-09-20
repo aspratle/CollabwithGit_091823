@@ -17,7 +17,7 @@
 - Dre
 - Harshitha
 - Martha
-- Gina
+- Gina ![Mojo](https://i.pinimg.com/1200x/22/d9/bc/22d9bcfc3043fd680c7f97000128870c.jpg)
 - Dan
 - Andrei
 - John
