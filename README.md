@@ -14,7 +14,7 @@
 
 - Kari
 
-![My Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rd.com%2Fwp-content%2Fuploads%2F2020%2F11%2FGettyImages-889552354-e1606774439626.jpg&tbnid=7RsF9MOxVxl9RM&vet=12ahUKEwiuuNntz7mBAxUjM1kFHXRpBh4QMygAegQIARBN..i&imgrefurl=https%3A%2F%2Fwww.rd.com%2Flist%2Ffunny-dog-photos%2F&docid=1uV2xGs9Q5yJgM&w=1706&h=1706&q=funny%20dog%20image&ved=2ahUKEwiuuNntz7mBAxUjM1kFHXRpBh4QMygAegQIARBN)
+![My Image](https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg)
 
 - Mytreyi
 - Dre
