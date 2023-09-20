@@ -20,6 +20,7 @@
 - Gina
 - Dan
 - Andrei
+![Image](https://www.rd.com/wp-content/uploads/2019/09/GettyImages-621924830-scaled.jpg?fit=700%2C500?fit=700,700)
 - John
 - Marlo
 - Wes
